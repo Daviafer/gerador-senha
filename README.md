@@ -14,5 +14,3 @@ Projeto que tem a finalidade de gerar senhas, caso o usuário deseja, ao realiza
 
 ## Possíveis melhorias:
 * Colocar um filtro na escolha de como poderá ser a senha aleatória.
-
-[Para visualizar o projeto: Clique aqui!]()
